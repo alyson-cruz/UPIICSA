@@ -74,7 +74,7 @@ int main() {
 
     cout << "\nPersonas ordenadas por edad:" << endl;
     for (int i = 0; i < n; i++) {
-        cout << lista[i].nombre << " (" << lista[i].edad << " años)" << endl;
+        cout << lista[i].nombre << " (" << lista[i].edad << " anios)" << endl;
     }
 
     return 0;
